@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\bin\Debug\net10.0-windows\AccessiblePad.exe
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\bin\Debug\net10.0-windows\AccessiblePad.deps.json
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\bin\Debug\net10.0-windows\AccessiblePad.runtimeconfig.json
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\bin\Debug\net10.0-windows\AccessiblePad.dll
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\bin\Debug\net10.0-windows\AccessiblePad.pdb
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.sourcelink.json
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.dll
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\refint\AccessiblePad.dll
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.pdb
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\AccessiblePad.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\School\CITRAP Stuff\BigNClear\AccessiblePad\obj\Debug\net10.0-windows\ref\AccessiblePad.dll
