@@ -24,13 +24,13 @@ namespace AccessiblePad
             noteArea.Font = new Font("Segoe UI", 18);
             noteArea.AccessibleName = "Main text typing area";
 
-            /* Open Button
+            // Open Button
             openBtn.Text = "Open File";
             openBtn.Dock = DockStyle.Top;
             openBtn.Height = 60;
-            openBtn.Click += (s, e) => OpenFile();
+            openBtn.Click += (s, e) => openFile();
             openBtn.AccessibleName = "Open a file from your computer";
-            */
+
 
             // Save Button
             saveBtn.Text = "Save File";
@@ -76,6 +76,18 @@ namespace AccessiblePad
             {
                 File.WriteAllText(saveDialog.FileName, noteArea.Text);
                 MessageBox.Show("File saved successfully");
+            }
+        }
+
+        void openFile()
+        {
+            OpenFileDialog openDialog = new OpenFileDialog();
+            openDialog.Filter = "Text Files (*.txt)|*.txt";
+
+            if (openDialog.ShowDialog() == DialogResult.OK)
+            {
+                noteArea.Text = File.ReadAllText(openDialog.FileName);
+                MessageBox.Show("File loaded successfully");
             }
         }
     }

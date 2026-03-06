@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AccessiblePad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f63d6f8284021a9139185ad0d42793f7fc16a6cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f60b776bcd908e613ab36e2b2f40315f87316830")]
 [assembly: System.Reflection.AssemblyProductAttribute("AccessiblePad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AccessiblePad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
