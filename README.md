@@ -39,4 +39,4 @@ dotnet run
 - [x] Logical Tab order for keyboard users.
 - [x] Descriptive labels for assistive technology.
 - [x] Save functionality
-- [ ] Open file functionality
+- [x] Open file functionality
